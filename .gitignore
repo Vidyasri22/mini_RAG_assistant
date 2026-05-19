@@ -7,9 +7,6 @@ venv/
 env/
 .env
 
-# Generated artifacts
-*.pptx
-
 # Source / working documents (not part of the app)
 *.docx
 
