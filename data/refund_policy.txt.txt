@@ -1,0 +1,13 @@
+ACME Corp Refund Policy
+
+Premium subscribers may cancel within 14 days of purchase for a full refund.
+After 14 days, refunds are prorated based on the number of days used in the
+current billing cycle. Refunds are processed within 5-7 business days and
+returned to the original payment method.
+
+Annual plans purchased during promotional sales are non-refundable after
+30 days. Enterprise customers must contact their account manager to request
+a refund and are subject to the terms of their signed agreement.
+
+Refund requests must be submitted through the customer portal at
+support.acme.com/refunds. Refunds cannot be issued for partial months.

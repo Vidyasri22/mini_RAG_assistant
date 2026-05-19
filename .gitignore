@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# Generated artifacts
+*.pptx
+
+# Source / working documents (not part of the app)
+*.docx
+
+# Microsoft Office lock files
+~$*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
